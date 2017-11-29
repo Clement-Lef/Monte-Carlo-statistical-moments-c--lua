@@ -1,0 +1,10 @@
+/**
+\mainpage Documentation
+
+This program is used to compute the statistical moments of a function. It has the following features :
+
+- Accept discrete function in CSV format and continuous function in lua file.
+- Three different random distributions : Uniform, Normal, Exponential
+- Four different types of interpolation for discrete function : Linear, Upper, Lower, Closest
+- Statistical moments can be computed in multi-dimension for the continuous function (Only for square, cubic, hypercubic ... domains)
+*/

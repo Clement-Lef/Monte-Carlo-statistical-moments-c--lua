@@ -1,0 +1,5 @@
+<map id="RandomGenerator" name="RandomGenerator">
+<area shape="rect" id="node2" href="$class_random_exponential.html" title="This class is used to generate random numbers following an exponential distribution. " alt="" coords="5,80,144,107"/>
+<area shape="rect" id="node3" href="$class_random_normal.html" title="This class is used to generate random numbers following a normal (gaussian) distribution. " alt="" coords="169,80,282,107"/>
+<area shape="rect" id="node4" href="$class_random_uniform.html" title="This class is used to generate random numbers following a uniform distribution. " alt="" coords="307,80,424,107"/>
+</map>

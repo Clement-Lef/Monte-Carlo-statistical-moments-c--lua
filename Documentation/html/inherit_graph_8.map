@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_read_function.html" title="Abstract class used to read a given function (Discrete or continuous) given by the user..." alt="" coords="5,31,108,57"/>
+<area shape="rect" id="node2" href="$class_read_discrete.html" title="This class is used to read a file containing data points (x,f(x)) and initialise a DiscreteFunction a..." alt="" coords="156,5,259,32"/>
+<area shape="rect" id="node3" href="$class_read_lua.html" title="Class used to read a Lua file to get a continuous function. " alt="" coords="170,56,245,83"/>
+</map>

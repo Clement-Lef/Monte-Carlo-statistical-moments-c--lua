@@ -1,0 +1,4 @@
+<map id="ReadFunction" name="ReadFunction">
+<area shape="rect" id="node2" href="$class_read_discrete.html" title="This class is used to read a file containing data points (x,f(x)) and initialise a DiscreteFunction a..." alt="" coords="5,80,108,107"/>
+<area shape="rect" id="node3" href="$class_read_lua.html" title="Class used to read a Lua file to get a continuous function. " alt="" coords="133,80,207,107"/>
+</map>

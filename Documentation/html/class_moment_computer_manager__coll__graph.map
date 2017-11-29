@@ -1,0 +1,6 @@
+<map id="MomentComputerManager" name="MomentComputerManager">
+<area shape="rect" id="node2" href="$class_read_function.html" title="Abstract class used to read a given function (Discrete or continuous) given by the user..." alt="" coords="5,95,108,121"/>
+<area shape="rect" id="node3" href="$class_m_c_simulator.html" title="This class handles the computation of the moments of a function. " alt="" coords="231,95,330,121"/>
+<area shape="rect" id="node4" href="$class_function.html" title="Abstract class used to represent a function. " alt="" coords="154,5,226,32"/>
+<area shape="rect" id="node5" href="$class_random_generator.html" title="This is an abstract class used to get a random number following a certain distribution defined in the..." alt="" coords="261,5,389,32"/>
+</map>

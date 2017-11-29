@@ -1,0 +1,13 @@
+Type of Function                            "Discrete"      // 'Discrete' or 'Continuous'
+Dimension                                   "1"             // Can be different from '1' only for discrete function
+Interpolation method                        "Closest"       // 'Linear', 'Upper', 'Lower', 'Closest'
+Function file path                          "../Test_Suite/fx=x2"      // (eg : '../Data/fx=x3.dat')
+Random distribution                         "Uniform"       // 'Uniform', 'Normal', 'Exponential'
+Domain inferior boundary                    "0"             // real number
+Domain superior boundary                    "1"             // real number
+Normal distribution mean                    "0.1"           // real number
+Normal distribution standard deviation      "1"             // real number
+Exponential distribution lambda parameter   "0.33"          // real number
+Random generator seed                       "0"             // '0' for random seed
+Number of evaluations points                "10000"         // positive integer
+Number of simulations                       "100"           // positive integer

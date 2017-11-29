@@ -1,0 +1,8 @@
+<map id="Exception" name="Exception">
+<area shape="rect" id="node2" href="$class_critical_exception.html" title="CriticalException is thrown when the program needs to abort. " alt="" coords="166,5,287,32"/>
+<area shape="rect" id="node3" href="$class_data_point_reading_exception.html" title="This exception is thrown when an error happens while reading the data points defining a discrete func..." alt="" coords="133,56,320,83"/>
+<area shape="rect" id="node4" href="$class_file_format_exception.html" title="This Exception are thrown when the program could not interpret the content of a file. " alt="" coords="155,107,298,133"/>
+<area shape="rect" id="node5" href="$class_file_not_found_exception.html" title="This type of Exception is thrown when the program could not find a file indicated by the user..." alt="" coords="147,157,306,184"/>
+<area shape="rect" id="node6" href="$class_functionality_not_available_exception.html" title="This type of Exception is raised when the user has entered a parameter which doesn&#39;t correspond to a ..." alt="" coords="141,209,312,250"/>
+<area shape="rect" id="node7" href="$class_function_exception.html" title="The type of Exception is raised when a function could not be evaluated properly. " alt="" coords="161,275,292,301"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_function.html" title="Abstract class used to represent a function. " alt="" coords="5,31,77,57"/>
+<area shape="rect" id="node2" href="$class_function_discrete.html" title="This class correspond to the definition of a function through a set of points (x, f(x)) ..." alt="" coords="125,5,247,32"/>
+<area shape="rect" id="node3" href="$class_function_lua.html" title="Class children of Function, used to represent a Continuous function with a Lua function. " alt="" coords="139,56,233,83"/>
+</map>

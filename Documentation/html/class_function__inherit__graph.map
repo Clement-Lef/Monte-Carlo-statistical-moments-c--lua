@@ -1,0 +1,4 @@
+<map id="Function" name="Function">
+<area shape="rect" id="node2" href="$class_function_discrete.html" title="This class correspond to the definition of a function through a set of points (x, f(x)) ..." alt="" coords="5,80,127,107"/>
+<area shape="rect" id="node3" href="$class_function_lua.html" title="Class children of Function, used to represent a Continuous function with a Lua function. " alt="" coords="151,80,245,107"/>
+</map>
